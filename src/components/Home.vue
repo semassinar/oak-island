@@ -1,14 +1,16 @@
 <template>
   <div class="all">
     <Navbar/>
-
     <div class="conteudo">
-      <h2 style="text-align: center;">A Maldição de Oak Island</h2>
+      <h1 id="titulo" >
+        <img src="/static/oakisland.png" style="text-align:center; width:70%; height:58%;">
+        <br >A Maldição de Oak Island
+      </h1>
       <hr>
       <h4 style="text-align: center;">Da 1ª à 6ª Temporada</h4>
       <hr>
 
-      <h2 style="text-align: center;">1ª Temporada</h2>
+      <h2>1ª Temporada</h2>
       <hr>
 
       <p style="padding-left: 30px;">
@@ -51,7 +53,7 @@
         >O achado</a>
       </p>
 
-      <h2 style="text-align: center;">2ª Temporada</h2>
+      <h2>2ª Temporada</h2>
       <hr>
 
       <p style="padding-left: 30px;">
@@ -134,7 +136,7 @@
         >a grande revelação</a>
       </p>
 
-      <h2 style="text-align: center;">3ª Temporada</h2>
+      <h2>3ª Temporada</h2>
       <hr>
 
       <p style="padding-left: 30px;">
@@ -241,7 +243,7 @@
         >Segredos e revelações</a>
       </p>
 
-      <h2 style="text-align: center;">4ª Temporada</h2>
+      <h2>4ª Temporada</h2>
       <hr>
 
       <p style="padding-left: 30px;">
@@ -387,7 +389,7 @@
           href="https://www.dailymotion.com/video/x5wsvyr"
         >perfurando para baixo / a pensar no Futuro</a>
       </p>
-      <h2 style="text-align: center;">5ª Temporada</h2>
+      <h2>5ª Temporada</h2>
       <hr>
 
       <p style="padding-left: 30px;">
@@ -535,7 +537,7 @@
         >Descobertas surpreendentes</a>
       </p>
 
-      <h2 style="text-align: center;">6ª Temporada</h2>
+      <h2>6ª Temporada</h2>
       <hr>
 
       <p style="padding-left: 30px;">
@@ -774,12 +776,19 @@ export default {
 
 <style>
 .conteudo {
-  margin-top: 10%;
   margin-bottom: 8%;
   margin-left: 20%;
   margin-right: 20%;
 }
 .all {
   margin-bottom: 8%;
+}
+#titulo{
+  color: #3b6c8e;
+  text-align: center;
+}
+h2{
+  color:#c5813c;
+text-align: center;
 }
 </style>
