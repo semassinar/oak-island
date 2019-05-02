@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="all">
     <Navbar/>
 
     <div class="conteudo">
@@ -730,6 +730,32 @@
 
       <p style="padding-left: 30px;">de busca acreditam que há alguma maldição no tesouro.)</p>
     </div>
+    <form
+      style="text-align:center;"
+      action="https://www.paypal.com/cgi-bin/webscr"
+      method="post"
+      target="_top"
+    >
+      <strong>
+        Você pode fazer uma doação
+        <br>
+      </strong>
+      <br>
+      <input type="hidden" name="cmd" value="_donations">
+      <input type="hidden" name="business" value="S3L3PT9ZPK73N">
+      <input type="hidden" name="currency_code" value="BRL">
+      <input
+        type="image"
+        src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+        border="0"
+        name="submit"
+        title="PayPal - The safer, easier way to pay online!"
+        alt="Donate with PayPal button"
+        width="24%"
+        height="7%"
+      >
+      <img alt border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="7" height="7">
+    </form>
   </div>
 </template>
 
@@ -748,9 +774,12 @@ export default {
 
 <style>
 .conteudo {
+  margin-top: 10%;
+  margin-bottom: 8%;
   margin-left: 20%;
   margin-right: 20%;
-  margin-top: 10%;
+}
+.all {
   margin-bottom: 8%;
 }
 </style>
