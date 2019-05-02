@@ -3,7 +3,7 @@
     <Navbar/>
     <div class="conteudo">
       <h1 id="titulo" >
-        <img src="/static/oakisland.png" style="text-align:center; width:70%; height:58%;">
+        <img src="/oak-island/static/oakisland.png" style="text-align:center; width:70%; height:58%;">
         <br >A Maldição de Oak Island
       </h1>
       <hr>
