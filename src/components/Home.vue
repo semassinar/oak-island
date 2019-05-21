@@ -2,9 +2,12 @@
   <div class="all">
     <Navbar/>
     <div class="conteudo">
-      <h1 id="titulo" >
-        <img src="/oak-island/static/oakisland.png" style="text-align:center; width:70%; height:58%;">
-        <br >A Maldição de Oak Island
+      <h1 id="titulo">
+        <img
+          src="/oak-island/static/oakisland.png"
+          style="text-align:center; width:70%; height:58%;"
+        >
+        <br>A Maldição de Oak Island
       </h1>
       <hr>
       <h4 style="text-align: center;">Da 1ª à 6ª Temporada</h4>
@@ -396,7 +399,7 @@
         Episódio 1 -
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1BCaUXq1Cmw3Fdhi2mS_-rTIemR_TtKi2/view"
+          href="https://mega.nz/#!d3oRAKZS!EDgEuWPPQZ-p1Gcbr3CIe7Xya7dhAFDWYwTr7pgm5i0"
         >Família eterna</a>
       </p>
 
@@ -404,7 +407,7 @@
         Episódio 2 -
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1gs6xg0sLuKuyTc6dY7td8MqKeztgdoap/view"
+          href="https://mega.nz/#!1vQTlKgY!E-n6oBdX6YKLGTQoRH5OO1YZppj1GM40GvqQ_YGQhgs"
         >O baú do homem morto</a>
       </p>
 
@@ -412,7 +415,7 @@
         Episódio 3 -
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1hb3KC8saeBpTxfNJi_GbBplqbNyuTuaF/view"
+          href="https://mega.nz/#!9yJllCLQ!N85I3ApMDdln8sf68fDgkB8nsmLN7-ErvC2q8u8OGuM"
         >Obstrução</a>
       </p>
 
@@ -420,7 +423,7 @@
         Episódio 4 -
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1pak13-CRHtZgZtipSKLWNuLcJ-NpDv1d/view"
+          href="https://mega.nz/#!57Z1HA5B!_2QMqiDA_A31kmQY7E0Z6obsWIsXQ4KGir49bJbXHZE"
         >Chamada fechada</a>
       </p>
 
@@ -428,7 +431,7 @@
         Episódio 5 -
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1SIUVRtETatUHHMEcBh7gLxFo_TBFl4np"
+          href="https://mega.nz/#!drIRmIST!kxsQDmaxgt3z1pGR79MsOMrb-Sh3Ca_Tw2oDgBJUhMI"
         >Osso seco</a>
       </p>
 
@@ -436,7 +439,7 @@
         Episódio 6 -
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/12yer3WGHYnsEyz0ivaMESaXUrja-_64f/view"
+          href="https://mega.nz/#!pnAVHSZJ!SvJ3kxxNee6cxeCr_V9QQJ774v8HkZDaSUNLp7g9zYI"
         >Restos do dia</a>
       </p>
 
@@ -444,7 +447,7 @@
         Episódio 7 -
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1YM087NahXdTtyYJjUQNBaCy4YopfOn9R/view"
+          href="https://mega.nz/#!ciJhiQDQ!mkNRJEzRyx1SqE8OM5S0jl4R_88EYEq1oQv_05FqjUA"
         >O mistério aumenta</a>
       </p>
 
@@ -452,9 +455,8 @@
         Episódio 8 -
         <a
           target="_blank"
-          href="https://pt.onmovies.to/tv/fsV/The-Curse-of-Oak-Island-Season-5?ep=19120316960"
+          href="https://mega.nz/#!h2JFBSoR!pGeiaExnKPat8AnlhdxJe0fj5x9DYBCNmGuAWj24aI4"
         >a descoberta de Dan</a>
-        &gt; (mudar a legenda nas opções “CC”, e escolher a: pob6) &gt;&gt;&gt;
       </p>
 
       <p style="padding-left: 30px;">
@@ -477,7 +479,7 @@
         Episódio 11 -
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1K0cVisofvxNeWT-uaboHVZRvO9zz4GZh/view"
+          href="https://mega.nz/#!xmAmDQKQ!iCGBCBQPgHl71elxRzhxPJ-yhGYiX_eb086gD9TZ7DI"
         >alvos em movimento</a>
       </p>
 
@@ -485,7 +487,7 @@
         Episódio 12 -
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1duZp1eDC8m_qVIhi78ibCpsB2z-p5mnl/view"
+          href="https://mega.nz/#!EvAUjQ5R!UGCNrd4HeSbaDOQ5d-S0d3CTv6GxHhppGJPYs_Y1WrY"
         >Uma chave para o mistério</a>
       </p>
 
@@ -493,7 +495,7 @@
         Episódio 13 -
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1uGolbaplJEx8zUJWvETaSMXuscZttrsq/view"
+          href="https://mega.nz/#!gmBGHKAR!tWdLNvsslcka0HZHsPwF7BOFa1cm4NtygjEc0pQ7Hc4"
         >Desequilibrado / Emoções ao vermelho</a>
       </p>
 
@@ -501,7 +503,7 @@
         Episódio 14 -
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1rDV-x1Rkm8NoMLHRMtlrEYXuwtSIcuOl/view"
+          href="https://mega.nz/#!4mAQBCAI!UpdwLLTKGOcK0MWYu5Xt4chzHhsno4e_Kh2GkDrUJBA"
         >a conexão Templária / a ligação aos templários</a>
       </p>
 
@@ -509,7 +511,7 @@
         Episódio 15 -
         <a
           target="_blank"
-          href="https://pt.onmovies.to/tv/fsV/The-Curse-of-Oak-Island-Season-5?ep=19619992381B"
+          href="https://mega.nz/#!43Jk0K7b!96sYmKdsf75KxptmVliu3vKKfaxaU4AfQOQLOyPM4Zc"
         >aço preso / O baú do tesouro</a>
       </p>
 
@@ -517,7 +519,7 @@
         Episódio 16 –
         <a
           target="_blank"
-          href="https://pt.onmovies.to/tv/fsV/The-Curse-of-Oak-Island-Season-5?ep=11257861082"
+          href="https://mega.nz/#!x2QUiKgC!Y7Ngd0BwqK0IVjsT_a6BNOVQMTo1TKQ8fn4zCTIjQxc"
         >Enxergando vermelho / a busca continua</a>
       </p>
 
@@ -525,7 +527,7 @@
         Episódio 17 -
         <a
           target="_blank"
-          href="https://pt.onmovies.to/tv/fsV/The-Curse-of-Oak-Island-Season-5?ep=5736845260"
+          href="https://mega.nz/#!s6QmgQAA!Iq8lQZ5hmEyt3iwwmdsFTJsrj8oeKn34SA_CiSyD9G8"
         >Álbum da família</a>
       </p>
 
@@ -533,7 +535,7 @@
         Episódio 18 -
         <a
           target="_blank"
-          href="https://pt.onmovies.to/tv/fsV/The-Curse-of-Oak-Island-Season-5?ep=16434790776"
+          href="https://mega.nz/#!4yIXVCTA!G-oN2Z9WPtETPN_cLBdlnmFqVtVK8RJ_P3DZVFkFHak"
         >Descobertas surpreendentes</a>
       </p>
 
@@ -543,7 +545,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1pCDVg2UBV2f1d9IcacNWWm3SJR4HjM8I"
+          href="https://drive.google.com/file/d/1PCDVg2UBV2f1d9IcacNWWm3SJR4HjM8I/view"
         >Episódio 01</a>
         "Teoriado Big Bang de Rick"
       </p>
@@ -551,7 +553,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1nNQ10IUsZLQMrcr5kqa0Ic4z1v0OEIJH"
+          href="https://drive.google.com/file/d/1nNQ10IUsZLQMrcr5kqa0Ic4z1v0OEIJH/view"
         >Episódio 02</a>
         "Corridado ouro"
       </p>
@@ -559,7 +561,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1aC_mJfcaksFxm-3OQmRJJl6HqkdnqtQ_"
+          href="https://drive.google.com/file/d/1aC_mJfcaksFxm-3OQmRJJl6HqkdnqtQ_/view"
         >Episódio 03</a>
         "percepçãode profundidade"
       </p>
@@ -567,7 +569,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1J3sid4raza4w1rRalmRngtSQ6JLpw8CS"
+          href="https://drive.google.com/file/d/1J3sid4razA4w1rRAlmRngtSQ6JLPw8CS/view"
         >Episódio 04</a>
         "Umlegado revelado"
       </p>
@@ -575,7 +577,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1x03BnyGr418hoghcU1CiunRvDXrDnkMS"
+          href="https://drive.google.com/file/d/1x03BnyGr418hoghcU1CiunRvDXrDnkMS/view"
         >Episódio 05</a>
         "Voltandopara casa"
       </p>
@@ -583,7 +585,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1fTFLx62CBR-sIvga7myOI9GsHKofK6pQ"
+          href="https://drive.google.com/file/d/1fTFLx62CBR-sIvgA7myOI9GsHKofK6PQ/view"
         >Episódio 06</a>
         "Metalprecioso"
       </p>
@@ -591,7 +593,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1nDX3Mwfea0V5apzp-2XGuVy-ncOcW0x2"
+          href="https://drive.google.com/file/d/1nDX3Mwfea0V5APzp-2XGuVy-ncOcW0x2/view"
         >Episódio 07</a>
         "Rochasólida"
       </p>
@@ -599,7 +601,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1pymZ0uYD2dpOBHQ2rYyezQGyfajRhHNw"
+          href="https://drive.google.com/file/d/1pymZ0uYD2dpOBHQ2rYyezQGyfajRhHNw/view"
         >Episódio 08</a>
         "Desenterrado"
       </p>
@@ -607,7 +609,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1V0YaxHluoxshra-HizjVue5vpCWmq5ca"
+          href="https://drive.google.com/file/d/1w3qY7aw5rVbwzc74SC-C2epEq3hsd99V/view"
         >Episódio 09</a>
         "Comoacima, tão abaixo"
       </p>
@@ -615,7 +617,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1nJesIFxVm1gUbxdrRj61iqs3iBc6SZ4W"
+          href="https://drive.google.com/file/d/1pfCaHzoZ7ejzRLF2dQYMwTs_TUcjiLKe/view"
         >Episódio 10</a>
         "Dedosfeitos de pedra"
       </p>
@@ -623,7 +625,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=19NCVzDqlXE7SlnDahHGETsvTWfLRQFud"
+          href="https://drive.google.com/file/d/19NCVzDqlXE7SlnDahHGETsvTWfLRQFud/view"
         >Episódio 11</a>
         "Caise tudo"
       </p>
@@ -631,7 +633,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1SNjI10OjUhsO8iBcuM2cOc5lKfTXE94l"
+          href="https://drive.google.com/file/d/1SNjI10OjUhsO8iBcuM2cOc5lKfTXE94l/view"
         >Episódio 12</a>
         "Rampade Lançamento quando molhado"
       </p>
@@ -639,7 +641,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1rIX1azGpSaRpeHaEBKSrx-9XmNa89G-p"
+          href="https://drive.google.com/file/d/1JJHcBU92y4Jd6HzsomvCgd7FpJ2iDBmY/view"
         >Episódio 13</a>
         "perseguiçãode papel"
       </p>
@@ -647,7 +649,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1kqhv4R2msOy_9SLHZuv8kGHRoCWGSiMc"
+          href="https://drive.google.com/file/d/1kqhv4R2msOy_9SLHZuv8kGHRoCWGSiMc/view"
         >Episódio 14</a>
         "Viagemao fundo do Cenote"
       </p>
@@ -662,7 +664,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1tcxLxuUpzviEUqxhgkQpiY1ga8rgEYUI"
+          href="https://drive.google.com/file/d/1OPfP4LQWROm4D3Qw0RlSZeu_8hzX7EIk/view"
         >Episódio 15</a>
         "Tinta mais difícil"
       </p>
@@ -670,7 +672,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1apnVXDq395IN2i97OV0WOJciNflhIHUW"
+          href="https://drive.google.com/file/d/1aPnVXDq395IN2i97OV0WOJciNflhIHUW/view"
         >Episódio 16</a>
         "Desvio"
       </p>
@@ -678,7 +680,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1h_4HgWtr1f1SgdLV55aFliwCT9eVht-C/view?fbclid=IwaR0-Ksct2314W9lpLWIj8SGWbo3kilVp1JjNzf6T_1tkV4Y1hRQ5lFRDVp4"
+          href="https://drive.google.com/file/d/1vEitwYaL3LLS-QL704plSjoI_Mp-qzrT/view"
         >Episódio 17</a>
         "pista ou falso?"
       </p>
@@ -686,9 +688,9 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1YnFI01aL4Ip1ajCtN7B2t7_RLBvwvodz/edit"
+          href="https://drive.google.com/file/d/1YnFI01aL4IP1AjCtN7B2t7_RLBvwvodz/edit"
         >Episódio 18</a>
-        "Metalpesado?"
+        "Metal pesado?"
       </p>
 
       <p style="padding-left: 30px;">
@@ -702,7 +704,7 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=17iLIGVyXZC_kFqpS-LYn4EzvSVDm8npN&amp;fbclid=IwaR3Z3vq3btzjp9XHz7XQzpKCoBzKxaRDpfVgUqeqpUOwrJ66Z333_2MO4y0"
+          href="https://drive.google.com/file/d/17iLIGVyXZC_kFqPS-LYn4EzvSVDm8nPN/view"
         >Episódio 20</a>
         "Dias curtos e cavaleiros altos”
       </p>
@@ -710,11 +712,11 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1rs73c4ehWr3hyZDRGshf0eRCMg6pX62K/view"
+          href="https://drive.google.com/file/d/1W9mC5ltCznvSDAODI99EoLSHt6FEk37Z/view"
         >Episódio 21</a>
         "assuntos sísmicos”
       </p>
-   <p style="padding-left: 30px;">
+      <p style="padding-left: 30px;">
         <a
           target="_blank"
           href="https://drive.google.com/file/d/1SEQb7Xwyljyt0lA-9Pd76qOUjbksCvrN/view"
@@ -724,8 +726,8 @@
       <p style="padding-left: 30px;">
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1vTDDZf8295Krzi6dhcnaNCeE94vs9XuZ"
-        >Episódio ESpECIaL - 00</a>
+          href="https://drive.google.com/file/d/1vTDDZf8295Krzi6dhcnaNCeE94vs9XuZ/view"
+        >Episódio ESpECIaL - 86</a>
       </p>
 
       <p
@@ -735,7 +737,12 @@
       <p
         style="padding-left: 30px;"
       >Resumo: Matty Blake volta para Oak Island para tentar chegar à verdade da maldição, e saber se os integrantes do time</p>
-
+      <p style="padding-left: 30px;">
+        <a
+          target="_blank"
+          href="https://drive.google.com/file/d/1n50Qn-FaQu1M5Wbcej2I7eWsiZN2h2J9/view"
+        >Episódio ESpECIaL - 87</a>
+      </p>
       <p style="padding-left: 30px;">de busca acreditam que há alguma maldição no tesouro.)</p>
     </div>
     <form
@@ -789,12 +796,12 @@ export default {
 .all {
   margin-bottom: 8%;
 }
-#titulo{
+#titulo {
   color: #3b6c8e;
   text-align: center;
 }
-h2{
-  color:#c5813c;
-text-align: center;
+h2 {
+  color: #c5813c;
+  text-align: center;
 }
 </style>
