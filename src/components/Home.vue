@@ -60,7 +60,7 @@
         Episódio 1 -
         <a
           target="_blank"
-          href="https://mega.nz/#!M3JBjaQI!5TNTrlHBssrR1BwHsCXacvute8t4CKuab23nsmOjtvs"
+          href="https://mega.nz/#!M3JBjaQI!5TNTrlHBssrR1BwHsCXacvute8t4CKuAb23nsmOjtvs"
         >Uma vez lã, sempre lá</a>
       </p>
 
@@ -76,7 +76,7 @@
         Episódio 3 -
         <a
           target="_blank"
-          href="https://mega.nz/#!IjQHzYaa!azOFUNpKJh6asDior9r4sMJbxpWnFhfaBEQxvlJtTQE"
+          href="https://mega.nz/#!IjQHzYAA!azOFUNpKJh6AsDior9r4sMJbxpWnFhfaBEQxvlJtTQE"
         >a estrela de oito pontas</a>
       </p>
 
@@ -84,7 +84,7 @@
         Episódio 4 -
         <a
           target="_blank"
-          href="https://mega.nz/#!ZqZ31aZC!-_za2cKHT0Hya11LXooWpZHM8ra4tuxmE-4cubNRNag"
+          href="https://mega.nz/#!ZqZ31aZC!-_za2cKHT0Hya11LXooWpZHM8ra4tuxmE-4cubNRNAg"
         >a descoberta</a>
       </p>
 
@@ -92,7 +92,7 @@
         Episódio 5 -
         <a
           target="_blank"
-          href="https://mega.nz/#!YrBlHa5Q!6KRnManwR8VgKC9KMkdv_QmQ0YzgNtmKGpRJV-v2--a"
+          href="https://mega.nz/#!YrBlHA5Q!6KRnManwR8VgKC9KMkdv_QmQ0YzgNtmKGpRJV-v2--A"
         >a pedra de 90 pés</a>
       </p>
 
@@ -100,7 +100,7 @@
         Episódio 6 -
         <a
           target="_blank"
-          href="https://mega.nz/#!tvZxUaBb!qhkFoRNKD-uavQecl8quCkFiilpM0LsFoDWmF_ytdno"
+          href="https://mega.nz/#!tvZxUABb!qhkFoRNKD-uavQecl8quCkFiilPM0LsFoDWmF_ytdno"
         >Sete deve tingir</a>
       </p>
 
@@ -108,7 +108,7 @@
         Episódio 7 -
         <a
           target="_blank"
-          href="https://mega.nz/#!ojBnmaIT!QuOvkthtikX_aJ-BBLe5--pd0jD-aJ4Jg46j5xwMOCI"
+          href="https://mega.nz/#!ojBnmaIT!QuOvkthtikX_AJ-BBLe5--pd0jD-aJ4Jg46j5xwMOCI"
         >a trilha dos Templários</a>
       </p>
 
@@ -116,7 +116,7 @@
         Episódio 8 -
         <a
           target="_blank"
-          href="https://mega.nz/#!wuRTGIKa!ZzfeJzVfKkMS42asXa_VpNp3R9ID6BB_909a18yLIXw"
+          href="https://mega.nz/#!wuRTGIKa!ZzfeJzVfKkMS42AsXa_VpNP3R9ID6BB_909a18yLIXw"
         >O “X” marca o lugar</a>
       </p>
 
@@ -124,7 +124,7 @@
         Episódio 9 -
         <a
           target="_blank"
-          href="https://mega.nz/#!w2Bh3YQR!ooviHH4BXXfoo9RBOK8avxNvwXSByWc1tW3sZDgNSSs"
+          href="https://mega.nz/#!w2Bh3YQR!ooviHH4BXXfoo9RBOK8AvxNvwXSByWc1tW3sZDgNSSs"
         >Um mergulho perigoso</a>
       </p>
 
@@ -132,7 +132,7 @@
         Episódio 10 -
         <a
           target="_blank"
-          href="https://mega.nz/#!5iIn1K5K!wZpb7YiIc2yK2UwkLkiO2BnKadTHERvajyxVw_kj28s"
+          href="https://mega.nz/#!5iIn1K5K!wZPb7YiIc2yK2UwkLkiO2BnKadTHERvajyxVw_kj28s"
         >a grande revelação</a>
       </p>
 
