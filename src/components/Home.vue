@@ -17,7 +17,7 @@
         Episódio 1-
         <a
           target="_blank"
-          href="https://www.dailymotion.com/video/x4b8wzz"
+          href="https://drive.google.com/file/d/1cfITNZ8Gj4ox-Lhj5G0AnLUntbvOYD_a/view"
         >O que se encontra abaixo</a>
       </p>
 
