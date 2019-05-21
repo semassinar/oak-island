@@ -33,21 +33,19 @@
       </p>
 
       <p style="padding-left: 30px;">
-        Episódio 4 -
-        <a
-          target="_blank"
-          href="https://drive.google.com/open?id=18fwUmOSbyl9g21K717VoQj4Ze15Q4rIj"
-        >O Segredo do Templo de Salomão</a>
-      </p>
-
-      <p style="padding-left: 30px;">
         Episódio 3 -
         <a
           target="_blank"
           href="https://drive.google.com/open?id=1-B0WIVcbRm46f-9Z1IvmeHQgjnZg_Trb"
         >Vozes da sepultura</a>
       </p>
-
+      <p style="padding-left: 30px;">
+        Episódio 4 -
+        <a
+          target="_blank"
+          href="https://drive.google.com/open?id=18fwUmOSbyl9g21K717VoQj4Ze15Q4rIj"
+        >O Segredo do Templo de Salomão</a>
+      </p>
       <p style="padding-left: 30px;">
         Episódio 5 -
         <a
