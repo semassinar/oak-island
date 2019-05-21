@@ -49,7 +49,7 @@
         Episódio 5 -
         <a
           target="_blank"
-          href="https://drive.google.com/open?id=1Fo1SHh0a5X7s9cX41qtTq46U5Gq8xHJI"
+          href="https://drive.google.com/file/d/1Fo1SHh0A5X7s9cX41qtTq46U5Gq8xHJI/view"
         >O achado</a>
       </p>
 
